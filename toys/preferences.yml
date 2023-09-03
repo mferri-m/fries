@@ -6,7 +6,7 @@ group_title_order:
 epgs:
   '#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml,
   https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,
-  http://epgspot.com/rytec_epg/rytecUK_SportMovies.xz,
+  https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml,
   https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml,
   https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml,
   https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml"
@@ -530,24 +530,24 @@ canales:
     channel_name: TNT Sports 1 UK
     group_title: Otros deportes
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: TNTSport1.uk
+    tvg_id: BTSport1.uk
     #tvg_id: I1207.82450.schedulesdirect.org
   canal94:
     channel_name: TNT Sports 2 UK
     group_title: Otros deportes
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: TNTSport2.uk
+    tvg_id: BTSport2.uk
     #tvg_id: I1213.82451.schedulesdirect.org
   canal95:
     channel_name: TNT Sports 3 UK
     group_title: Otros deportes
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: TNTSport3.uk
+    tvg_id: BTSport3.uk
   canal96:
     channel_name: TNT Sports 4 UK
     group_title: Otros deportes
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: TNTSport4.uk
+    tvg_id: BTSport4.uk
   canal104:
     channel_name: Sky Sports Premier League UK
     group_title: Otros deportes
@@ -557,13 +557,13 @@ canales:
     channel_name: Sky Sports Arena UK
     group_title: Otros deportes
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: SkySpArena.uk
+    tvg_id: SkySportsArena.uk
   canal98:
     channel_name: Sky Sports Football UK
     group_title: Otros deportes
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     #tvg_id: I403.2087.tvguide.co.uk
-    tvg_id: SkySpFball.uk
+    tvg_id: SkySportsFootball.uk
   canal99:
     channel_name: Sky Sports Plus UK
     group_title: Otros deportes
