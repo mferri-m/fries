@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 def importPreferences():
     try:
-        page = requests.get('https://raw.githubusercontent.com/epScraper/preferences/main/preferences.yml')
+        page = requests.get('https://raw.githubusercontent.com/alicatesTEAM/ali/main/toys/preferences.yml')
         soup = BeautifulSoup(page.text, 'html.parser')
 
         if page.status_code == 200:
