@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, http://epgspot.com/rytec_epg/rytecUK_SportMovies.xz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
 #EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Calendario Mundial Baloncesto  
 https://www.google.es/m?q=calendario+mundial+baloncesto+2023&client=ms-opera-mobile&channel=new&espv=1#sie=lg;/m/0130g_xq;3;/m/05ygwn;mt;fp;1;;;
-#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,F1 UHD electroperra  76d4
+#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep1UHD F1  76d4
 plugin://script.module.horus?action=play&id=76d4087a189f847d2edbfb3979ee0e19b5b28899
-#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,R Madrid - Getafe UHD  ac5b
+#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep2UHD by electroperra  ac5b
 plugin://script.module.horus?action=play&id=ac5b8784bb7dae0dbc6a2edc037fbf5c8d6a97d1
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 1" tvg-logo="https://i.ibb.co/XpC9S2F/gol1.png" ,Gol Mundial 1  7838
 plugin://script.module.horus?action=play&id=78384a676407784df944243eb2f75d937fbcc253
@@ -161,19 +161,19 @@ plugin://script.module.horus?action=play&id=cba8d369eac629b577750edb90370cd1c5fb
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Premier League UK  ec5e
 plugin://script.module.horus?action=play&id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpFball.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Football UK  8dbe
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySportsFootball.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Football UK  8dbe
 plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpArena.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Arena UK  d317
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySportsArena.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Arena UK  d317
 plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SkySportF1Germany.de" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports F1 DE  b043
 plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport1.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 1 UK  efc6
+#EXTINF:-1 group-title="Otros deportes" tvg-id="BTSport1.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 1 UK  efc6
 plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport2.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 2 UK  d63d
+#EXTINF:-1 group-title="Otros deportes" tvg-id="BTSport2.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 2 UK  d63d
 plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport3.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 3 UK  5f96
+#EXTINF:-1 group-title="Otros deportes" tvg-id="BTSport3.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 3 UK  5f96
 plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport4.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 4 UK  fc50
+#EXTINF:-1 group-title="Otros deportes" tvg-id="BTSport4.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 4 UK  fc50
 plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,beIN Sports Xtra Ñ  92a7
 plugin://script.module.horus?action=play&id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
