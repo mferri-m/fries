@@ -248,32 +248,32 @@ canales:
   canal60:
     channel_name: DAZN 1 1080
     group_title: DAZN
-    logo: https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
     tvg_id: DAZN 1 HD
   canal61:
     channel_name: DAZN 1 720
     group_title: DAZN
-    logo: https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
     tvg_id: DAZN 1 HD
   canal62:
     channel_name: DAZN 2 1080
     group_title: DAZN
-    logo: https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD
     tvg_id: DAZN 2 HD
   canal63:
     channel_name: DAZN 2 720
     group_title: DAZN
-    logo: https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD
     tvg_id: DAZN 2 HD
   canal64:
     channel_name: DAZN 3 1080
     group_title: DAZN
-    logo: https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3
     tvg_id: DAZN 3 HD
   canal65:
     channel_name: DAZN 4 1080
     group_title: DAZN
-    logo: https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4
     tvg_id: DAZN 4 HD
     
   canal105:
@@ -294,7 +294,7 @@ canales:
   canal33:
     channel_name: '#Ellas 1080'
     group_title: M+ Deportes
-    logo: https://telegra.ph/file/ac61e19d71db2aafa5f1e.png
+    logo: https://telegra.ph/file/bc5edb21ed6b4d85f85af.jpg
     tvg_id: 'M+ Ellas Vamos HD'
   canal34:
     channel_name: M+ Deportes 1080
