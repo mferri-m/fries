@@ -284,17 +284,17 @@ canales:
   canal31:
     channel_name: '#Vamos 1080'
     group_title: M+ Deportes
-    logo: https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png
+    logo: https://telegra.ph/file/119d11f705496fbac4439.png
     tvg_id: 'M+ Vamos HD'
   canal32:
     channel_name: '#Vamos 720'
     group_title: M+ Deportes
-    logo: https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png
+    logo: https://telegra.ph/file/119d11f705496fbac4439.png
     tvg_id: 'M+ Vamos HD'
   canal33:
     channel_name: '#Ellas 1080'
     group_title: M+ Deportes
-    logo: https://telegra.ph/file/bc5edb21ed6b4d85f85af.jpg
+    logo: https://telegra.ph/file/90d3f483ee3eabc124bbb.jpg
     tvg_id: 'M+ Ellas Vamos HD'
   canal34:
     channel_name: M+ Deportes 1080
