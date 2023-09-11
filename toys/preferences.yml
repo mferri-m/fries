@@ -1,5 +1,5 @@
 group_title_order:
-  ["Eventos", "Gol Mundial", "DAZN F1", "LaLiga", "M+ Champions", "Mis canales", "DAZN", "M+ Deportes", "M+ LaLiga Hypermotion", "Otros deportes", "electroperra", "Otros"]
+  ["Eventos", "DAZN F1", "LaLiga", "M+ Champions", "Mis canales", "DAZN", "M+ Deportes", "M+ LaLiga Hypermotion", "British", "Otros deportes", "Gol Mundial", "electroperra", "Otros"]
 
 
 
@@ -432,69 +432,70 @@ canales:
     group_title: Otros deportes
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     tvg_id: FoxSports2.us
+    
   canal93:
     channel_name: TNT Sports 1 UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     tvg_id: BTSport1.uk
     #tvg_id: I1207.82450.schedulesdirect.org
   canal94:
     channel_name: TNT Sports 2 UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     tvg_id: BTSport2.uk
     #tvg_id: I1213.82451.schedulesdirect.org
   canal95:
     channel_name: TNT Sports 3 UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     tvg_id: BTSport3.uk
   canal96:
     channel_name: TNT Sports 4 UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     tvg_id: BTSport4.uk
   canal91:
     channel_name: Sky Sports Main Event UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/f435538aa2919bbdf802c.jpg
     #tvg_id: I401.1229.tvguide.co.uk
     tvg_id: SkySportsMainEvent.uk   
   canal104:
     channel_name: Sky Sports Premier League UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     tvg_id: SkySportsPremierLeague.uk
   canal97:
     channel_name: Sky Sports Arena UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     tvg_id: SkySportsArena.uk
   canal98:
     channel_name: Sky Sports Football UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     #tvg_id: I403.2087.tvguide.co.uk
     tvg_id: SkySportsFootball.uk
   canal99:
     channel_name: Sky Sports Plus UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     tvg_id: SkySpPL.uk
   canal99b:
     channel_name: Sky Sports F1 DE
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     tvg_id: SkySportF1Germany.de
   canal100:
     channel_name: Premier Sports 1 UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     #tvg_id: I1292.79027.schedulesdirect.org
     tvg_id: PremierSports.uk
   canal101:
     channel_name: Premier Sports 2 UK
-    group_title: Otros deportes
+    group_title: British
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     #tvg_id: I1295.109162.schedulesdirect.org
     tvg_id: PremierSports2.uk
