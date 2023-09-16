@@ -75,13 +75,18 @@ canales:
     logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
     tvg_id: DAZN F1 HD
 
-  canal3:
-    channel_name: LaLiga TV Bar 1080
-    group_title: LaLiga
-    logo: https://telegra.ph/file/92a3edd207bb0781e868b.jpg
+  #canal3a:
+    #channel_name: LaLiga TV Bar 1080
+    #group_title: LaLiga
+    #logo: https://telegra.ph/file/92a3edd207bb0781e868b.jpg
     #logo: https://telegra.ph/file/1151a8da2345d862a41ed.jpg
-    tvg_id: LaLiga TV BAR HD
-
+    #tvg_id: LaLiga TV BAR HD
+    
+  canal3:
+    channel_name: M+ LaLiga 1080P
+    group_title: LaLiga
+    logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
+    tvg_id: M+ LaLiga TV HD
   canal4:
     channel_name: M+ LaLiga 1080 MultiAudio
     group_title: LaLiga
