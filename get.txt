@@ -193,16 +193,12 @@ http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Barcelona TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720  e336
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 1" tvg-logo="https://i.ibb.co/XpC9S2F/gol1.png" ,Gol Mundial 1  7838
-http://127.0.0.1:6878/ace/getstream?id=78384a676407784df944243eb2f75d937fbcc253
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 2" tvg-logo="https://i.ibb.co/Ld4Cbtz/gol2.png" ,Gol Mundial 2  4af5
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Dazn liga F 1  d6cd
+http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Dazn liga f 2  4af5
 http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 3" tvg-logo="https://i.ibb.co/WBYv3gm/gol3.png" ,Gol Mundial 3  52c8
-http://127.0.0.1:6878/ace/getstream?id=52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 3" tvg-logo="https://i.ibb.co/WBYv3gm/gol3.png" ,Gol Mundial 3  d6d5
-http://127.0.0.1:6878/ace/getstream?id=d6d5775a2965b15ee405278b6a2e5a4374a80e25
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 4" tvg-logo="https://i.ibb.co/Vt3rYrv/gol4.png" ,Gol Mundial 4  5a8d
-http://127.0.0.1:6878/ace/getstream?id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Dazn liga f 2  1629
+http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="electroperra" tvg-id="Discovery" tvg-logo="https://telegra.ph/file/bf0dbd8e082efdd1b4523.png" ,Discovery  
 http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30194&extension=ts&play_token=H9QHtyNjwN
 #EXTINF:-1 group-title="electroperra" tvg-id="HISTORIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" ,Historia  
