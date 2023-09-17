@@ -1,5 +1,5 @@
 group_title_order:
-  ["Eventos", "DAZN F1", "LaLiga", "M+ Champions", "Mis canales", "DAZN", "M+ Deportes", "M+ LaLiga Hypermotion", "British", "Otros deportes", "Gol Mundial", "electroperra", "Otros"]
+  ["Eventos", "UHD", "DAZN F1", "LaLiga", "M+ Champions", "Mis canales", "DAZN", "M+ Deportes", "M+ LaLiga Hypermotion", "British", "Otros deportes", "Gol Mundial", "electroperra", "Otros"]
 
 
 
@@ -15,6 +15,12 @@ epgs:
 
 
 nombres:
+  key1a:
+    name: "Dazn liga F"
+    replace: "DAZN Liga F"
+  key2:
+    name: "Dazn liga f"
+    replace: "DAZN Liga F"
   key1:
     name: " (Fórmula 1)"
     replace: ""
@@ -64,6 +70,11 @@ nombres:
 
 canales:
 
+  canal66b:
+    channel_name: DAZN F1 UHD
+    group_title: DAZN F1
+    logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
+    tvg_id: DAZN F1 HD
   canal66:
     channel_name: DAZN F1 1080
     group_title: DAZN F1
@@ -81,7 +92,12 @@ canales:
     #logo: https://telegra.ph/file/92a3edd207bb0781e868b.jpg
     #logo: https://telegra.ph/file/1151a8da2345d862a41ed.jpg
     #tvg_id: LaLiga TV BAR HD
-    
+
+  canal3b:
+    channel_name: M+ LaLiga 1440P
+    group_title: LaLiga
+    logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
+    tvg_id: M+ LaLiga TV HD
   canal3:
     channel_name: M+ LaLiga 1080P
     group_title: LaLiga
@@ -280,6 +296,26 @@ canales:
     group_title: DAZN
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4
     tvg_id: DAZN 4 HD
+  canal65a:
+    channel_name: DAZN Liga F 1
+    group_title: DAZN
+    logo: https://telegra.ph/file/4ba88ed172191f43eaf4d.jpg
+    tvg_id: nil
+  canal65b:
+    channel_name: DAZN Liga F 2
+    group_title: DAZN
+    logo: https://telegra.ph/file/2891a5684b81a348204a8.jpg
+    tvg_id: nil
+  canal65c:
+    channel_name: DAZN Liga F 3
+    group_title: DAZN
+    logo: https://telegra.ph/file/8f02b583c74d75795f985.jpg
+    tvg_id: nil
+  canal65d:
+    channel_name: DAZN Liga F 4
+    group_title: DAZN
+    logo: https://telegra.ph/file/29daa0d0860897a49204f.jpg
+    tvg_id: nil
     
   canal105:
     channel_name: M Plus+ 1080
@@ -509,6 +545,11 @@ canales:
     group_title: Otros deportes
     logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
     tvg_id: nil
+  canal80b:
+    channel_name: beIN Sports Xtra Ñ
+    group_title: Otros deportes
+    logo: https://i.imgur.com/XcjYBfj.png
+    tvg_id: beIN SPORTS XTRA ñ
   canal103:
     channel_name: Ziggo Sport Racing NL
     group_title: Otros deportes
