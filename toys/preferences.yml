@@ -61,6 +61,9 @@ nombres:
     name: "M.Plus"
     replace: "M Plus+"
   key16:
+    name: "M. LaLiga UHD mas info grupo telegram"
+    replace: "M+ LaLiga UHD"
+  key17:
     name: "M."
     replace: "M+"
 
@@ -95,6 +98,11 @@ canales:
 
   canal3b:
     channel_name: M+ LaLiga 1440P
+    group_title: LaLiga
+    logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
+    tvg_id: M+ LaLiga TV HD
+  canal3c:
+    channel_name: M+ LaLiga UHD
     group_title: LaLiga
     logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
     tvg_id: M+ LaLiga TV HD
@@ -299,22 +307,22 @@ canales:
   canal65a:
     channel_name: DAZN Liga F 1
     group_title: DAZN
-    logo: https://telegra.ph/file/4ba88ed172191f43eaf4d.jpg
+    logo: https://telegra.ph/file/88ed96a2e74f404784cce.png
     tvg_id: nil
   canal65b:
     channel_name: DAZN Liga F 2
     group_title: DAZN
-    logo: https://telegra.ph/file/2891a5684b81a348204a8.jpg
+    logo: https://telegra.ph/file/afdb26d76ca8cd6c83594.png
     tvg_id: nil
   canal65c:
     channel_name: DAZN Liga F 3
     group_title: DAZN
-    logo: https://telegra.ph/file/8f02b583c74d75795f985.jpg
+    logo: https://telegra.ph/file/ab593c68496f7ade0126c.png
     tvg_id: nil
   canal65d:
     channel_name: DAZN Liga F 4
     group_title: DAZN
-    logo: https://telegra.ph/file/29daa0d0860897a49204f.jpg
+    logo: https://telegra.ph/file/426648e524b5cacd6f28b.png
     tvg_id: nil
     
   canal105:
