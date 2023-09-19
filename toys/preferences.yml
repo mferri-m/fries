@@ -193,6 +193,11 @@ canales:
     group_title: M+ Champions
     logo: https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg
     tvg_id: M+ Liga de Campeones HD
+  canal43b:
+    channel_name: ML Campeones 1080
+    group_title: M+ Champions
+    logo: https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg
+    tvg_id: M+ Liga de Campeones HD
   canal44:
     channel_name: ML Campeones 720
     group_title: M+ Champions
@@ -229,22 +234,22 @@ canales:
     logo: https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg
     tvg_id: M+ Liga de Campeones 3 HD
   canal49:
-    channel_name: ML Campeones 4 SD
+    channel_name: ML Campeones 4 1080
     group_title: M+ Champions
     logo: https://telegra.ph/file/ed5ff4d4af1b41089bf63.jpg
     tvg_id: M+ Liga de Campeones 4 HD
   canal50:
-    channel_name: ML Campeones 5 SD
+    channel_name: ML Campeones 5 1080
     group_title: M+ Champions
     logo: https://telegra.ph/file/f70ec8ceea100f7cc16d3.jpg
     tvg_id: M+ Liga de Campeones 5 HD
   canal51:
-    channel_name: ML Campeones 6 SD
+    channel_name: ML Campeones 6 1080
     group_title: M+ Champions
     logo: https://telegra.ph/file/973fa621597f93bf3ada4.jpg
     tvg_id: M+ Liga de Campeones 6 HD
   canal52:
-    channel_name: ML Campeones 7 SD
+    channel_name: ML Campeones 7 1080
     group_title: M+ Champions
     logo: https://telegra.ph/file/0059fad5e9fb7248810ca.jpg
     tvg_id: M+ Liga de Campeones 7 HD
