@@ -40,6 +40,12 @@ def get_channel_list(channel_dict):
             tvg_id = 'OTROS'
             logo = 'https://telegra.ph/file/d4d9a410917c5c13f9c5a.png'
 
+        elif channel_name.startswith("ep"):
+            channel_name = channel_name
+            group_title = 'UHD'
+            tvg_id = 'OTROS'
+            logo = 'https://telegra.ph/file/d4d9a410917c5c13f9c5a.png'
+
         else:
             for key in dict_canales:
                 if channel_name == dict_canales[key]['channel_name']:
